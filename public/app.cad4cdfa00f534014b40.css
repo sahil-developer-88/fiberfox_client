@@ -100,4 +100,15 @@ margin:10px;
 .checkbox-custom:focus + .checkbox-custom-label, .radio-custom:focus + .radio-custom-label {
   /* outline: 1px solid #ddd; */ /* focus style */
 }
-/*# sourceMappingURL=app.c98ca0a8a11392161121.css.map*/
+
+
+
+
+
+
+.box_shadow {
+-webkit-box-shadow: 10px 10px 36px -6px rgba(66,65,66,0.62);
+-moz-box-shadow: 10px 10px 36px -6px rgba(66,65,66,0.62);
+box-shadow: 10px 10px 36px -6px rgba(66,65,66,0.62);
+}
+/*# sourceMappingURL=app.cad4cdfa00f534014b40.css.map*/
